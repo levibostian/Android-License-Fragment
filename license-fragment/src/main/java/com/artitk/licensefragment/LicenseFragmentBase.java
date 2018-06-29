@@ -4,7 +4,6 @@ import android.app.Activity;
 import android.content.res.Resources;
 import android.content.res.TypedArray;
 import android.os.Bundle;
-import android.support.annotation.NonNull;
 import android.app.Fragment;
 import android.util.AttributeSet;
 import android.util.Log;
@@ -17,6 +16,8 @@ import com.artitk.licensefragment.utils.ArrayManager;
 import com.artitk.licensefragment.utils.BitwiseManager;
 
 import java.util.ArrayList;
+
+import androidx.annotation.NonNull;
 
 /**
  * Activities that contain this fragment can implement the

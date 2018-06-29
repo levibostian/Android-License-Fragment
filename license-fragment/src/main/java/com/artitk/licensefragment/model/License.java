@@ -1,8 +1,9 @@
 package com.artitk.licensefragment.model;
 
 import android.content.Context;
-import android.support.annotation.RawRes;
 import com.artitk.licensefragment.utils.ResourceManager;
+
+import androidx.annotation.RawRes;
 
 /**
  * License data class.
